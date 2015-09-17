@@ -1,0 +1,5 @@
+category = ["Sports Teams","Linux Stuff","People","Animals"]
+computers = ["gnu","kernel","linux","mageia","penguin","ubuntu"]
+sports = ["rams","rivercats","kings","giants"]
+people = ["scott","nanette","emily","maddie","sasha","larry","kathy"]
+animals = ["ant","baboon","badger","bat","bear","beaver","camel","cat","clam","cobra","cougar","coyote","crow","deer","dog","donkey","duck","eagle","ferret","fox","frog","goat","goose","hawk","lion","lizard","llama","mole","monkey","moose","mouse","mule","newt","otter","owl","panda","parrot","pigeon","python","rabbit","ram","rat","raven","rhino","salmon","seal","shark","sheep","skunk","sloth","snake","spider","stork","swan","tiger","toad","trout","turkey","turtle","weasel","whale","wolf","wombat","zebra"]
